@@ -26,3 +26,22 @@
 3. absolute: 절대적 위치, 가까운 relative부모를 기준으로 이동하고 선언되는 순간 기존의 자신의 위치는 버림, 전체레이아웃에 영향
 4. fixed: 화면영역을 기준으로 이동, 선언되는 순간 기존위치 버림
 5. sticky: 임계점 위치에 도달한 순간부터 다음 sticky가 나올때까지 fixed가 됨
+
+6. (+) Z-index: z축(높이값)을 이용해 더 높은 값의 요소가 작은 값의 요소를 덮음
+
+### Flexbox : 요소를 행과 열 형태로 배치하는 1차원 레이아웃 방식
+* position = 배열, flexbox = 공간배열과 정렬
+* 주축과 교차축: flex item이 배열되는 기준이 되는 축(주축이 기본값)
+
+* flexbox의 구조<br>
+1. flex container : display이 속성이 flex인 부모요소. 
+2. flex item : flex container의 1차 자식요소.
+
+
+**flexbox 속성 정리**
+1. flex-direction
+2. flex-wrap
+3. justify-content
+4. align-content
+5. align-items
+6. align-self

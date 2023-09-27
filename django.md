@@ -138,3 +138,5 @@ html에서 많이 처리할수록 로딩시간 지연됨 파이썬에서 처리�
 - app_name 속성 지정해주기<br/>
 절차 ①urls.py 파일에서 urlpatterns 리스트 위에 app_name=""지정 ②url태그 사용된곳은 {% url 'index' %} --> {% url 'articles:index' %} 형태로 바꿔주기
 
+### static files(정적 파일) : 서버 측에서 변경되지 않고 고정적으로 제공되는 파일(ex-image, JS, CSS)
+
