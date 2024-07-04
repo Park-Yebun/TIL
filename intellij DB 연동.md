@@ -14,13 +14,13 @@ exit;
 
 ### 인텔리제이 mysql workbench와 인텔리제이 자체 DB 연동은 다름!!!
 
-![Untitled](intellij%20DB%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%202fc294f5b38e44908183f62d2d54e585/Untitled.png)
+![Untitled1](https://github.com/Park-Yebun/TIL/assets/139411465/20c3807e-f649-4023-8e10-d5b3c7f53c9b)
 
 127.0.0.1 이 workbench DB
 
 ### 워크벤치 연동을 위해서는 jdbc 설정 파일(jar파일)을 인텔리제이에 읽혀줘야함
 
-![Untitled](intellij%20DB%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%202fc294f5b38e44908183f62d2d54e585/Untitled%201.png)
+![Untitled2](https://github.com/Park-Yebun/TIL/assets/139411465/f2b52947-4230-481e-bc34-b0374ec75b9c)
 
 워크벤치에 호환되는 설정파일 다운로드 후 설정에서 읽혀주기
 
@@ -28,9 +28,9 @@ exit;
 
 프로젝트와 gradle java 버전 같은지 확인 후 gradle 새로고침 해보기
 
-![Untitled](intellij%20DB%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%202fc294f5b38e44908183f62d2d54e585/Untitled%202.png)
+![Untitled3](https://github.com/Park-Yebun/TIL/assets/139411465/62c2944c-201e-4e35-ae91-73098dd2fe1a)
 
-![Untitled](intellij%20DB%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%202fc294f5b38e44908183f62d2d54e585/Untitled%203.png)
+![Untitled4](https://github.com/Park-Yebun/TIL/assets/139411465/ce2f2414-a471-49b0-a830-fe42320652fe)
 
 ### [42000][1049] Unknown database 'DB 이름'.
 
