@@ -31,7 +31,7 @@ Open Authorization의 약자
 
 ### Oauth의 동작 흐름
 
-![Oauth Flow.png](Oauth%20%E1%84%8B%E1%85%AA%20jwt%20c0b832301bee4fbd9ce7f83c8315a708/Oauth_Flow.png)
+![Oauth Flow.png](https://github.com/user-attachments/assets/bd55ca38-1779-4a05-889c-0b1d44ef0650)
 
 1. 유저가 클라이언트에 로그인 요청
 2. 클라이언트(이 경우 브라우저)는 플랫폼의 서버에 접근을 위한 엑세스 토큰을 요청
