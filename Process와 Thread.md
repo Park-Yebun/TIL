@@ -12,4 +12,4 @@
 Tread Local Storage : 스레드가 독립적으로 사용하는 Stack 구조의 공간
 Heap: 모든 스레드가 공용으로 사용하는 공간
 
-![image]()
+![image](https://github.com/user-attachments/assets/6aa4a660-f482-468d-a1b8-1f89a128ab69)
